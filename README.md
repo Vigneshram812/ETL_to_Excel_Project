@@ -10,6 +10,7 @@ This project demonstrates a simple ETL (Extract, Transform, Load) process using 
 
 ## Requirements
 
+- Python/ VS code with python extension
 - pandas
 
 ## How to Run
